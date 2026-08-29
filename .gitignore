@@ -1,0 +1,5 @@
+data/raw/*
+!data/raw/README.md
+.ipynb_checkpoints/ 
+__pycache__/ 
+.env 
